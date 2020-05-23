@@ -1,1 +1,1 @@
-<h1> Hello, this is just a demo! </h1>
+<h1> Hello, this is a demo! </h1>
